@@ -1,0 +1,27 @@
+{
+  "name": "gamedragme",
+  "version": "0.0.1",
+  "description": "DragMe game with Phaser framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Navarro Pérez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.8.0",
+    "wiredep": "^2.2.2",
+    "wrappy": "^1.0.1"
+  }
+}

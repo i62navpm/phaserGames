@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>hello phaser!</title>
+        <script src="phaser.min.js"></script>
+    </head>
+    <body>
+
+    <script type="text/javascript">
+    var graphics;
+    var ball;
+    window.onload = function() {
+
+        var game = new Phaser.Game(window.innerWidth, 600, Phaser.CANVAS, '', { preload: preload, create: create, render: render  });
+
+        function preload() {
+            game.load.image('ball', 'assets/ball.png');
+        }
+
+        function create () {
+            game.physics.startSystem(Phaser.Physics.ARCADE);
+            game.stage.backgroundColor = '#0072bc';
+            ball = game.add.sprite(0, 0, 'ball');
+            game.physics.enable(ball, Phaser.Physics.ARCADE);
+
+            ball.body.velocity.setTo(200,200);
+            ball.body.collideWorldBounds = true;
+            ball.body.bounce.set(1);
+
+
+
+
+
+        }
+         function render() {
+
+            // Sprite debug info
+            game.debug.spriteInfo(ball, 32, 32);
+
+
+        }
+
+    };
+
+    </script>
+
+    </body>
+</html>

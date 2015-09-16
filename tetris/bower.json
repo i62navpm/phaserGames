@@ -1,0 +1,21 @@
+{
+  "name": "gametetris",
+  "version": "0.0.1",
+  "authors": [
+    "Manuel Navarro Pérez"
+  ],
+  "description": "Tetris game with Phaser framework",
+  "main": "index.html",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.3.0"
+  },
+  "devDependencies": {}
+}

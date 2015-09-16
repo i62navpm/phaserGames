@@ -1,0 +1,2584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sco",
+				"scorePlayer"
+			],
+			[
+				"for",
+				"force_down"
+			],
+			[
+				"button",
+				"buttonA"
+			],
+			[
+				"ro",
+				"rotateBlock"
+			],
+			[
+				"mov",
+				"moveLeft"
+			],
+			[
+				"move",
+				"moveDown"
+			],
+			[
+				"mo",
+				"moveLeft"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"squ",
+				"square"
+			],
+			[
+				"j",
+				"Just"
+			],
+			[
+				"sa",
+				"squareGroup"
+			],
+			[
+				"sqar",
+				"square"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"create",
+				"createBorders"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"o",
+				"oppPositions"
+			],
+			[
+				"op",
+				"oppNubmber"
+			],
+			[
+				"get",
+				"getMiliSeconds"
+			],
+			[
+				"time",
+				"timeText"
+			],
+			[
+				"tim",
+				"timeText"
+			],
+			[
+				"wid",
+				"widthRectLine"
+			],
+			[
+				"bal",
+				"ballSprite"
+			],
+			[
+				"ba",
+				"ballSprite"
+			],
+			[
+				"spr",
+				"spriteChild"
+			],
+			[
+				"opo",
+				"opponentGroup"
+			],
+			[
+				"opp",
+				"opponentGroup"
+			],
+			[
+				"do",
+				"dotLine"
+			],
+			[
+				"wi",
+				"widthDotLine"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"P",
+				"Preloader"
+			],
+			[
+				"grh",
+				"graphics"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"crea",
+				"createButtons"
+			],
+			[
+				"scale",
+				"ScaleManager"
+			],
+			[
+				"WIDTH",
+				"width"
+			],
+			[
+				"game",
+				"Game"
+			],
+			[
+				"im",
+				"imagesFiles"
+			],
+			[
+				"scs",
+				"scssFiles"
+			],
+			[
+				"js",
+				"jsFiles"
+			],
+			[
+				"lib",
+				"LIBS_FILES"
+			],
+			[
+				"ind",
+				"INDEX_FILE"
+			],
+			[
+				"paus",
+				"paused"
+			],
+			[
+				"scoreTex",
+				"scoreTextPlayer"
+			],
+			[
+				"scor",
+				"scoreOpponent〔variable〕"
+			],
+			[
+				"pa",
+				"paused"
+			],
+			[
+				"set",
+				"setTo"
+			],
+			[
+				"scoreP",
+				"scoreOpponent"
+			],
+			[
+				"score",
+				"scoreOpponent"
+			],
+			[
+				"text",
+				"textGroup〔variable〕"
+			],
+			[
+				"scoret",
+				"scoreTextPlayer〔variable〕"
+			],
+			[
+				"sho",
+				"showModal1"
+			],
+			[
+				"ball",
+				"ballSprite"
+			],
+			[
+				"enabl",
+				"enableDrag"
+			],
+			[
+				"inpu",
+				"inputEnabled"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"xmi",
+				"xmin_input	(local, instance)"
+			],
+			[
+				"xm",
+				"xmax_input	(local, instance)"
+			],
+			[
+				"xmin",
+				"xmin_input"
+			],
+			[
+				"cl",
+				"class	New Class"
+			],
+			[
+				"os",
+				"OSError	(builtin, class)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/00_bootState.js",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/01_preloaderState.js",
+			"settings":
+			{
+				"buffer_size": 1064,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/02_mainMenuState.js",
+			"settings":
+			{
+				"buffer_size": 1381,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/03_tetrisBlock.js",
+			"settings":
+			{
+				"buffer_size": 8793,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/04_tetrisGame.js",
+			"settings":
+			{
+				"buffer_size": 9179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/settings.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/wsgi.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/urls.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/pfc/web/js/tetris.js",
+			"settings":
+			{
+				"buffer_size": 9138,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/05_endState.js",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/games/99_game.js",
+			"settings":
+			{
+				"buffer_size": 326,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/styles/tetrisGame.scss",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1770,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"jsli",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jls",
+				"JSLint: Show JSLint Result"
+			],
+			[
+				"jslint",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"snipet",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"shoe",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"funct",
+				"Snippet: Function"
+			],
+			[
+				"snipp",
+				"Snippet: __magic__"
+			],
+			[
+				"snip",
+				"Snippet: __magic__"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"COMMI",
+				"Git: Quick Commit"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/GestionCJN/backEnd/ENV/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Users/USER/Desktop/Masonry-JavaScript-Tetris-Clone-master/game.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/tetris/src/assets/xbox360.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/tetris/src/styles/tetrisGame.scss",
+		"/C/Users/USER/Desktop/JuegosHTML5/pong/src/styles/pongGame.scss",
+		"/C/Users/USER/Desktop/Masonry-JavaScript-Tetris-Clone-master/block.js",
+		"/C/Users/USER/Desktop/Masonry-JavaScript-Tetris-Clone-master/mainmenu.js",
+		"/C/Users/USER/Desktop/Masonry-JavaScript-Tetris-Clone-master/load.js",
+		"/C/Users/USER/Desktop/Masonry-JavaScript-Tetris-Clone-master/init.js",
+		"/C/wamp/www/pfc/web/js/tetris.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/tetris/tetris.sublime-workspace",
+		"/C/Users/USER/Desktop/JuegosHTML5/tetris/package.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/tetris/bower.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/01_preloaderState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/02_mainMenuState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/03_dragMeGame.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/pong/src/games/03_pongGame.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/04_endState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/99_game.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/package.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/bower.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/index.html",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/styles/dragMeGame.scss",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR21.873/src/games/99_game.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR20.845/src/games/04_endState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR12.046/src/games/03_dragMeGame.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR10.267/src/games/02_mainMenuState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR06.494/src/games/01_preloaderState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR03.282/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/pongProject.sublime-project",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/pongProject.sublime-workspace",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/gulpfile.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.8153/banco-madrid/gulpfile.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/99_game.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/01_preloaderState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/02_mainMenuState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/03_pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/04_endState.js",
+		"/C/wamp/www/pfc/web/js/pong2.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/.jshintrc",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/styles/pongGame.scss",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/copiaseguridadPong.js",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/bower.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/pong/game.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR01.640/assets/js/menu.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/css/pongGame.css",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR80.9719/banco-madrid/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/gulp-sass/node_modules/node-sass/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/gulp-sass/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/node-sass/vendor/win32-ia32-14/binding.node",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR63.2169/banco-madrid/bower.json",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR63.2384/banco-madrid/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/js/games.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR38.782/part5.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/modal.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/game.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index2.html",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.8153/banco-madrid/pongGame.scss",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.2382/banco-madrid/package.json",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR18.8041/tutorial.html",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DI01.430/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/manifest.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/phaser.min.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/phaser.min.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR01.718/resp/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index3.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index.html",
+		"/C/wamp/www/pfc/web/js/pong.js",
+		"/C/wamp/www/pfc/web/pong.html",
+		"/C/Users/USER/Desktop/prueba.js",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/C/Users/USER/Desktop/ultimo/Vagrantfile",
+		"/C/Users/USER/Desktop/repositorio/package.json",
+		"/C/Users/USER/Desktop/repositorio/Vagrantfile",
+		"/C/Users/USER/Desktop/repositorio/server.js",
+		"/C/Users/USER/Desktop/repositorio/provision.sh",
+		"/C/Users/USER/Desktop/repo/package.json",
+		"/C/Users/USER/Desktop/repo/server.js",
+		"/F/src/dqe/app/dqe_main_service.py",
+		"/C/Users/USER/Desktop/main2.py",
+		"/C/Users/USER/Downloads/python_test_exam.py",
+		"/C/Users/USER/Desktop/test2/testoop.pyx",
+		"/C/Users/USER/Desktop/hello.pyx",
+		"/C/Users/USER/Downloads/setup.py",
+		"/C/Users/USER/Downloads/python_test_exam.pyx",
+		"/C/Users/USER/Downloads/application.py",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR03.173/Test/python_test_exam.pyx",
+		"/C/Users/USER/Desktop/python_test_exam.pyx",
+		"/C/Users/USER/Downloads/python_test_exam.pyx.py",
+		"/C/Users/USER/Downloads/pasar.py",
+		"/C/Users/USER/Downloads/prueba.pyx",
+		"/C/Users/USER/Downloads/Untitled2.py",
+		"/C/Users/USER/Downloads/Untitled2.ipynb",
+		"/C/Users/USER/Downloads/Untitled0 (5).pyx.py",
+		"/C/Users/USER/Desktop/prueba.py",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/USER/Desktop/RepositorioSSH/UcoWeb/WebContent/web/js/pong-old1.js",
+		"/C/Users/USER/Desktop/main.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\USER\\Desktop\\JuegosHTML5\\dragMe\\src\\games"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createButtons",
+			"DRAG ME",
+			"game",
+			"scoretext",
+			"score",
+			"Score:",
+			"scoreTextPlayer.",
+			"Score",
+			"Points",
+			"scoretext",
+			"currentlev",
+			"Points:",
+			";",
+			"color",
+			"new Block",
+			"this.choosecolor());",
+			"this);",
+			"new Block",
+			"this.nextblockcolor = this.choosecolor();",
+			"Block",
+			"blockcolor",
+			"this",
+			"blockTexture1",
+			"1",
+			"2, 2",
+			"this.game.add.",
+			"game",
+			"ballTexture1",
+			"moveRight",
+			"moveLeft",
+			"moveDown",
+			"moveLeft",
+			"force_down",
+			"50",
+			"370",
+			"this",
+			"0.5",
+			"scale",
+			"Right",
+			"keyRight",
+			"this.add",
+			"image",
+			".scale.setTo(0.5);",
+			"buttonB",
+			"imageX",
+			"imageB",
+			"imageY",
+			"imageA",
+			"image",
+			"this.imageDPad",
+			" = ga",
+			"image",
+			",\n",
+			"e)}",
+			"me);",
+			"map",
+			"new block",
+			"console",
+			"cosnole.log",
+			"new block",
+			"this.squares[i].anchor.setTo(0.5,0.5);",
+			"focusblock[0]",
+			"this.game.input.x",
+			"left",
+			"right",
+			"game",
+			"game.debug",
+			"limitRight",
+			"limitLeft",
+			"game.world.bounds.width",
+			"this.game.world.bounds.x",
+			"this.game.world.centerX",
+			"360",
+			"271",
+			"330",
+			"sprite",
+			", 1",
+			", 0.7",
+			"scale",
+			"var",
+			"nextblockcolor",
+			"currentlevel",
+			"KEYDOWN",
+			"KEYUP",
+			"this.keyright",
+			"keyright",
+			"KEYLEFT",
+			"KEYRIGHT",
+			"change_rot_time",
+			"var",
+			"slide_time",
+			"force_down",
+			"squaresinrow",
+			"oldsquares",
+			"var",
+			"console.log(",
+			"getrotated",
+			"this.centerX",
+			"md",
+			"this.md",
+			"md",
+			"width",
+			"this.load",
+			"this.",
+			"scale",
+			"500",
+			"this.squares[0]",
+			"this.centerX-this.md",
+			"erasePiece",
+			"md",
+			"squaresinrow",
+			"logo",
+			"this.bck",
+			"num_rows",
+			"var",
+			"case",
+			"force_down_max_time",
+			"width",
+			"height",
+			"width",
+			"DragMe",
+			"dragMe",
+			"DragMe",
+			"dragme",
+			"wiredep",
+			"pause",
+			"STATE",
+			"PONG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.keyDown",
+			"this.keyUp",
+			"this.keyRight",
+			"this.keyLeft",
+			"this.keyright",
+			"this.change_rot_time",
+			"this.slide_time",
+			"this.force_down",
+			"this.squaresinrow",
+			"this.oldsquares",
+			"this.olds\nthis.oldsquares\nthis.olds",
+			"md",
+			"this.force_down_max_time",
+			"this.blockHeight",
+			"this.blockWidth",
+			"DragMe",
+			"Howto",
+			"this.game.add",
+			"this.",
+			"this.scoreTextOpponent",
+			"this.scoreTextPlayer",
+			"this.scoreOpponent",
+			"this.scorePlayer",
+			"this.widthDotLine",
+			"this.heightBet",
+			"this.widthBet",
+			"this.betGroup",
+			"this.opponentSprite",
+			"this.playerSprite",
+			"this.ballTexture2",
+			"this.ballTexture1",
+			"this.ballRadius",
+			"this.ballSprite",
+			"this."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/games/00_bootState.js",
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								220
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/games/01_preloaderState.js",
+					"settings":
+					{
+						"buffer_size": 1064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								916,
+								916
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/games/02_mainMenuState.js",
+					"settings":
+					{
+						"buffer_size": 1381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/games/03_tetrisBlock.js",
+					"settings":
+					{
+						"buffer_size": 8793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								895
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 332.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/games/04_tetrisGame.js",
+					"settings":
+					{
+						"buffer_size": 9179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/settings.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/wsgi.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/USER/Desktop/GestionCJN/backEnd/gestionCJN/gestionCJN/urls.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/pfc/web/js/tetris.js",
+					"settings":
+					{
+						"buffer_size": 9138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3216,
+								3224
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1866.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/games/05_endState.js",
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/games/99_game.js",
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/styles/tetrisGame.scss",
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 1770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}

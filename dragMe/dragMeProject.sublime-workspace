@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"oppPositions"
+			],
+			[
+				"op",
+				"oppNubmber"
+			],
+			[
+				"get",
+				"getMiliSeconds"
+			],
+			[
+				"time",
+				"timeText"
+			],
+			[
+				"tim",
+				"timeText"
+			],
+			[
+				"wid",
+				"widthRectLine"
+			],
+			[
+				"bal",
+				"ballSprite"
+			],
+			[
+				"ba",
+				"ballSprite"
+			],
+			[
+				"create",
+				"createBall"
+			],
+			[
+				"spr",
+				"spriteChild"
+			],
+			[
+				"opo",
+				"opponentGroup"
+			],
+			[
+				"opp",
+				"opponentGroup"
+			],
+			[
+				"do",
+				"dotLine"
+			],
+			[
+				"wi",
+				"widthDotLine"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"P",
+				"Preloader"
+			],
+			[
+				"grh",
+				"graphics"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"crea",
+				"createButtons"
+			],
+			[
+				"scale",
+				"ScaleManager"
+			],
+			[
+				"WIDTH",
+				"width"
+			],
+			[
+				"game",
+				"Game"
+			],
+			[
+				"im",
+				"imagesFiles"
+			],
+			[
+				"scs",
+				"scssFiles"
+			],
+			[
+				"js",
+				"jsFiles"
+			],
+			[
+				"lib",
+				"LIBS_FILES"
+			],
+			[
+				"ind",
+				"INDEX_FILE"
+			],
+			[
+				"paus",
+				"paused"
+			],
+			[
+				"scoreTex",
+				"scoreTextPlayer"
+			],
+			[
+				"scor",
+				"scoreOpponent〔variable〕"
+			],
+			[
+				"pa",
+				"paused"
+			],
+			[
+				"set",
+				"setTo"
+			],
+			[
+				"scoreP",
+				"scoreOpponent"
+			],
+			[
+				"score",
+				"scoreOpponent"
+			],
+			[
+				"text",
+				"textGroup〔variable〕"
+			],
+			[
+				"scoret",
+				"scoreTextPlayer〔variable〕"
+			],
+			[
+				"sho",
+				"showModal1"
+			],
+			[
+				"ball",
+				"ballSprite"
+			],
+			[
+				"enabl",
+				"enableDrag"
+			],
+			[
+				"inpu",
+				"inputEnabled"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"xmi",
+				"xmin_input	(local, instance)"
+			],
+			[
+				"xm",
+				"xmax_input	(local, instance)"
+			],
+			[
+				"xmin",
+				"xmin_input"
+			],
+			[
+				"cl",
+				"class	New Class"
+			],
+			[
+				"os",
+				"OSError	(builtin, class)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"jsli",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jls",
+				"JSLint: Show JSLint Result"
+			],
+			[
+				"jslint",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"snipet",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"shoe",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"funct",
+				"Snippet: Function"
+			],
+			[
+				"snipp",
+				"Snippet: __magic__"
+			],
+			[
+				"snip",
+				"Snippet: __magic__"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"COMMI",
+				"Git: Quick Commit"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/01_preloaderState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/02_mainMenuState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/03_dragMeGame.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/pong/src/games/03_pongGame.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/04_endState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/games/99_game.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/package.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/bower.json",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/index.html",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/src/styles/dragMeGame.scss",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR21.873/src/games/99_game.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR20.845/src/games/04_endState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR12.046/src/games/03_dragMeGame.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR10.267/src/games/02_mainMenuState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR06.494/src/games/01_preloaderState.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR03.282/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/pongProject.sublime-project",
+		"/C/Users/USER/Desktop/JuegosHTML5/dragMe/pongProject.sublime-workspace",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/gulpfile.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.8153/banco-madrid/gulpfile.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/99_game.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/00_bootState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/01_preloaderState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/02_mainMenuState.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/03_pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/04_endState.js",
+		"/C/wamp/www/pfc/web/js/pong2.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/.jshintrc",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/styles/pongGame.scss",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/copiaseguridadPong.js",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/bower.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/src/games/pong/game.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR01.640/assets/js/menu.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/css/pongGame.css",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR80.9719/banco-madrid/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/gulp-sass/node_modules/node-sass/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/gulp-sass/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/node_modules/node-sass/vendor/win32-ia32-14/binding.node",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR63.2169/banco-madrid/bower.json",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR63.2384/banco-madrid/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/build/js/games.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR38.782/part5.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/modal.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/game.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/pongGame.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index2.html",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.8153/banco-madrid/pongGame.scss",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR26.2382/banco-madrid/package.json",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR18.8041/tutorial.html",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DI01.430/package.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/manifest.json",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/resp/phaser.min.js",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/phaser.min.js",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR01.718/resp/index.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index3.html",
+		"/C/Users/USER/Desktop/Nueva carpeta (4)/index.html",
+		"/C/wamp/www/pfc/web/js/pong.js",
+		"/C/wamp/www/pfc/web/pong.html",
+		"/C/Users/USER/Desktop/prueba.js",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/C/Users/USER/Desktop/ultimo/Vagrantfile",
+		"/C/Users/USER/Desktop/repositorio/package.json",
+		"/C/Users/USER/Desktop/repositorio/Vagrantfile",
+		"/C/Users/USER/Desktop/repositorio/server.js",
+		"/C/Users/USER/Desktop/repositorio/provision.sh",
+		"/C/Users/USER/Desktop/repo/package.json",
+		"/C/Users/USER/Desktop/repo/server.js",
+		"/F/src/dqe/app/dqe_main_service.py",
+		"/C/Users/USER/Desktop/main2.py",
+		"/C/Users/USER/Downloads/python_test_exam.py",
+		"/C/Users/USER/Desktop/test2/testoop.pyx",
+		"/C/Users/USER/Desktop/hello.pyx",
+		"/C/Users/USER/Downloads/setup.py",
+		"/C/Users/USER/Downloads/python_test_exam.pyx",
+		"/C/Users/USER/Downloads/application.py",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DR03.173/Test/python_test_exam.pyx",
+		"/C/Users/USER/Desktop/python_test_exam.pyx",
+		"/C/Users/USER/Downloads/python_test_exam.pyx.py",
+		"/C/Users/USER/Downloads/pasar.py",
+		"/C/Users/USER/Downloads/prueba.pyx",
+		"/C/Users/USER/Downloads/Untitled2.py",
+		"/C/Users/USER/Downloads/Untitled2.ipynb",
+		"/C/Users/USER/Downloads/Untitled0 (5).pyx.py",
+		"/C/Users/USER/Desktop/prueba.py",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/USER/Desktop/RepositorioSSH/UcoWeb/WebContent/web/js/pong-old1.js",
+		"/C/Users/USER/Desktop/main.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\USER\\Desktop\\JuegosHTML5\\dragMe\\src\\games"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pause",
+			"STATE",
+			"PONG",
+			"var",
+			"initPlayer",
+			"y:",
+			"RectLine.ctx",
+			"RectLine",
+			"this",
+			"getMilliSeconds",
+			"miliSeconds",
+			"getMiliSeconds",
+			"Seconds",
+			"seconds",
+			"d.",
+			"d",
+			"=",
+			"new",
+			"createRectInt",
+			"rectint",
+			"ballsprite",
+			"physic",
+			"alert",
+			"collide",
+			"rectInt",
+			"rectint",
+			"playerSprite",
+			"50",
+			"0",
+			"();\n",
+			"rect",
+			"createRect",
+			"graphics2",
+			"rectA",
+			"RectA",
+			"rectA",
+			"1",
+			"250",
+			"480",
+			"3",
+			"21",
+			"velocity",
+			");\n",
+			"opponentGroup",
+			"collide",
+			"cpññode",
+			"300",
+			"betGroup",
+			" 0",
+			"0",
+			"80",
+			"20",
+			"10",
+			"20",
+			"10",
+			"20",
+			"10",
+			"2",
+			"20",
+			"ctx",
+			"- radius",
+			"x + radius",
+			"- radius",
+			"20",
+			"width",
+			" + radius",
+			"10",
+			"render",
+			"200",
+			"ctx",
+			"20",
+			"10",
+			"widthDotLine",
+			"dotLine",
+			"ctx",
+			"rectangle",
+			"rounded",
+			"circle",
+			"render",
+			"createBets",
+			"cr",
+			"rect",
+			"Pong",
+			"black",
+			"red",
+			"setBall",
+			"MainMenu",
+			"255",
+			"game",
+			"Ball",
+			"Preloader",
+			"game",
+			"no_",
+			"orientation",
+			"8000",
+			"hola",
+			"game",
+			"this",
+			"device",
+			"desktop",
+			"pausegame",
+			"this.scale",
+			"this.",
+			"80",
+			"this",
+			"settext",
+			"this",
+			"group",
+			"this.betGroup",
+			"this",
+			"this.add",
+			"handleIncorrect",
+			"game.",
+			"scoreTextOpponent",
+			"scoreTextPlayer",
+			"scoreOpponent",
+			"scorePlayer",
+			"widthDotLine",
+			"heightBet",
+			"widthBet",
+			"betGroup",
+			"opponentSprite",
+			"playerSprite",
+			"ballTexture2",
+			"ballTexture1",
+			"ballRadius",
+			"ballSprite",
+			"function"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DragMe",
+			"Howto",
+			"this.game.add",
+			"this.",
+			"this.scoreTextOpponent",
+			"this.scoreTextPlayer",
+			"this.scoreOpponent",
+			"this.scorePlayer",
+			"this.widthDotLine",
+			"this.heightBet",
+			"this.widthBet",
+			"this.betGroup",
+			"this.opponentSprite",
+			"this.playerSprite",
+			"this.ballTexture2",
+			"this.ballTexture1",
+			"this.ballRadius",
+			"this.ballSprite",
+			"this."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
